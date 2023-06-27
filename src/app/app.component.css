@@ -1,0 +1,35 @@
+
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import 'primeicons/primeicons.css';
+
+.welcome{
+  font-size: 22px;
+  font-weight: 600;
+
+}
+.typeSmall{
+  font-size: 11px;
+    font-weight: 500;
+    color: #b3a8a4;
+}
+.typeLink{
+  font-size: 11px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #6366f1;
+}
+p{
+  margin-bottom: 0px;
+}
+.btnSign{
+  width: 50vw;
+}
+.space{
+  padding: 80px 60px 0px 60px;
+}
+.backgroundOne{
+  background-image: url(./../assets/fondo.jpg);
+  background-size: cover;
+  height: 100vh;
+}
